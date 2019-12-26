@@ -11,7 +11,7 @@ source = {
              "xazina", "onajonim", "xalq", "bolalik", "jannat", "farishta", "tabassum"],
     "warn": "⚠️<b> Guruhda botlar haqida gaplashish taqiqlanadi!</b>\n\n 🍀 Agar bu mavzuga qiziqsangiz, quyidagi "
             "guruhlardan birida fikrlaringizni yozib qoldiring: \n🔹 @botlarhaqida\n🔹 @python_uz_offtopic",
-    "new_member": "Salom {name}! Python guruhiga xush kelibsiz!\n\nSiz hozir guruhda faqat o'qiy olasiz. Yozish "
+    "new_member": "Salom {name}! Salomatmisiz Python guruhiga xush kelibsiz!\n\nSiz hozir guruhda faqat o'qiy olasiz. Yozish "
                   "imkoniyatiga ega bo'lish uchun quyidagi link orqali o'ting va qoidalarga roziligingizni "
                   "bildiring: <a href=\"https://t.me/" + botlink + "?start=rules_{user}\">→nazoratchi @"
                   + botlink + " qoidalari←</a>",
